@@ -1,0 +1,6 @@
+slackeventsapi==3.0.1
+slack-bolt==1.11.4
+Flask==2.0.2
+python-dotenv==0.19.2
+requests==2.27.1
+prettytable==3.0.0
