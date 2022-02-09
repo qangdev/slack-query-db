@@ -78,3 +78,6 @@ def slack_events():
 '''
 END FLASK APP
 '''
+
+if __name__ == "__main__":
+    flask_app.run(port=os.getenv("APP_PORT"))
